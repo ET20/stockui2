@@ -2,13 +2,13 @@
 <div id="app">
     <!--Contenedor del menu lateral-->
     <nav id="mainNav" v-bind:class="[nav.show ? 'show' : 'hide']">
-       <!-- <div id="navBanner">
+        <div id="navBanner">
              <img id="imagenfondo" src="../src/assets/ninja.jpg">
             <router-link class to="/account" id="usuario">
                <img id="imagenperfil" src="../assets/logo.png" />
                 <h1>kecin</h1>
                 <h2>walter@tachuso.com</h2>
-            </router-link> -->
+            </router-link>
         </div>
         <ul class="list-unstyled">
             <li>

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,uBAAuB,AAAC,CACtB,UAAU,CAAE,IAAI,CACjB",
+    "sources": [
+        "MemberProfile.scss"
+    ],
+    "names": [],
+    "file": "MemberProfile.min.css"
+}

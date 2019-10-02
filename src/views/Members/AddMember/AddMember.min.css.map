@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mBAAmB,AAAC,CAClB,UAAU,CAAE,IAAI,CACjB",
+    "sources": [
+        "AddMember.scss"
+    ],
+    "names": [],
+    "file": "AddMember.min.css"
+}
